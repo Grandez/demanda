@@ -32,9 +32,10 @@ vignettes/*.pdf
 *_cache/
 /cache/
 
-# Temporary files created by R markdown
+# Temporary files created by R markdown u otros
 *.utf8.md
 *.knit.md
+*.bak
 
 # R Environment Variables
 .Renviron
@@ -47,3 +48,6 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+/.quarto/
+_site

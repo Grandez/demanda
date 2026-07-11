@@ -1,21 +1,32 @@
 project:
   type: website
+  output-dir: _site
 
 website:
-  title: "demanda2"
+  title: "Expediente Capgemini"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Inicio
+      - href: expediente/01-cronologia/index.qmd
+        text: Cronología
+      - href: expediente/02-hechos/index.qmd
+        text: Hechos
+      - href: expediente/03-tesis/index.qmd
+        text: Tesis
+      - href: expediente/04-evidencias/index.qmd
+        text: Evidencias
+      - href: expediente/08-escritos/index.qmd
+        text: Escritos
+      - href: expediente/98-ideas/index.qmd
+        text: Ideas
+      - href: expediente/99-pendiente/index.qmd
+        text: Pendiente
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
+    theme: cosmo
     toc: true
-
-
+    number-sections: true
+    code-fold: true
 
