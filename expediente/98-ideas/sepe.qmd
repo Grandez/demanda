@@ -1,0 +1,18 @@
+---
+title: "SEPE y finiquito"
+fecha: 2026-07-12
+por_que: "Error del ingreso segun ley"
+posible_ley: "607"
+consecuencias: "indigencia"
+---
+
+En el momento de apuntarte al SEPE, o sea dia 1, si te han pagado unos dias de vacaciones, 
+el alta se da despues de esos dias, puesto que ya han sido pagados.
+
+En nuestro caso, eso supone el 16 de Julio del 2.026, lo cual significa que Capgemini me deberia haber
+abonado, **minimo**, el equivalente a 45 dias de salario de acuerdo, y sin olvidar, el embargo activo y 
+sus tramos.
+
+No obstante, el ingreso fue el equivalente a un **unico mes**: 2100 euros (redondeado), es decir, 
+30 dias y no 45, con lo que durante 15 dias yo no tuve derecho ni a salario ni a subsidio, con 
+el consiguiente daño economico y personal

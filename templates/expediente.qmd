@@ -1,0 +1,9 @@
+---
+title: ""
+fecha: 2026-07-12
+por_que: ""
+posible_ley: ""
+consecuencias: ""
+adjuntos:
+  - ""
+---
